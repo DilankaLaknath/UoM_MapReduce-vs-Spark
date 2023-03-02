@@ -74,14 +74,20 @@
 ### Results
 [Download Results file](./Resources/Results.xlsx)
 
+### Comparison of Hadoop Vs Spark for Carrier Delay
 ![Comparison of Hadoop Vs Spark for Carrier Delay](./Resources/plot1.png)
 
+### Comparison of Hadoop Vs Spark for NAS Delay
 ![Comparison of Hadoop Vs Spark for NAS Delay](./Resources/plot2.png)
 
+### Comparison of Hadoop Vs Spark for Weather Delay
 ![Comparison of Hadoop Vs Spark for Weather Delay](./Resources/plot3.png)
 
+### Comparison of Hadoop Vs Spark for Late Aircraft Delay
 ![Comparison of Hadoop Vs Spark for Late Aircraft Delay](./Resources/plot4.png)
 
+### Comparison of Hadoop Vs Spark for Security Delay
 ![Comparison of Hadoop Vs Spark for Security Delay](./Resources/plot5.png)
 
+### Comparison of Average Time Taken by MapReduce (HiveQL) Vs Spark (Spark-SQL) for Each Query
 ![Comparison of Average Time Taken by MapReduce (HiveQL) Vs Spark (Spark-SQL) for Each Query](./Resources/plot6.png)
