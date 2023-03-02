@@ -21,7 +21,7 @@
 9. Click "Create cluster".
 
 ### Cluster Setup
-![Cluster Setup](./cluster-setup.png)
+![Cluster Setup](./Resources/Images/cluster-setup.png)
 
 10. Go to the cluster's Summary >> Security and access >> Security groups for Master.
     - Select the security group for the master node.
@@ -38,7 +38,7 @@
 4. ssh -i /Users/dilanka/Downloads/labsuser.pem hadoop@ec2-44-200-14-97.compute-1.amazonaws.com.
 
 ### EMR Terminal View
-![EMR Terminal View](./emr-terminal-view.png)
+![EMR Terminal View](./Resources/Images/emr-terminal-view.png)
 
 ## setup-s3-bucket
 1. Go to Amazon S3.
@@ -60,15 +60,28 @@
 
 
 ### S3 Bucket Permission Update
-![S3 Bucket Permission Update](./s3-bucket-permission-update.png)
+![S3 Bucket Permission Update](./Resources/Images/s3-bucket-permission-update.png)
 
 4. Create a folder.
 5. Upload the dataset to the folder.
 
 ### S3 Bucket Setup
-![S3 Bucket Permission Update](./s3-bucket.png)
+![S3 Bucket Permission Update](./Resources/Images/s3-bucket.png)
 
+### Dataset
+[Download Dataset file](./Resources/Dataset/DelayedFlights-updated.csv)
 
 ### Results
-[Download XLSX file](./Results.xlsx)
+[Download Results file](./Resources/Results.xlsx)
 
+![Comparison of Hadoop Vs Spark for Carrier Delay](./Resources/plot1.png)
+
+![Comparison of Hadoop Vs Spark for NAS Delay](./Resources/plot2.png)
+
+![Comparison of Hadoop Vs Spark for Weather Delay](./Resources/plot3.png)
+
+![Comparison of Hadoop Vs Spark for Late Aircraft Delay](./Resources/plot4.png)
+
+![Comparison of Hadoop Vs Spark for Security Delay](./Resources/plot5.png)
+
+![Comparison of Average Time Taken by MapReduce (HiveQL) Vs Spark (Spark-SQL) for Each Query](./Resources/plot6.png)
