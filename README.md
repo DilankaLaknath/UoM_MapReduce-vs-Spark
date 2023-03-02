@@ -45,7 +45,7 @@
 2. Create a Bucket.
 3. Update the permission to access public by adding the following policy to your bucket policy:
 
-{
+> {
 "Version": "2012-10-17",
 "Statement": [
 {
