@@ -1,6 +1,9 @@
 # UoM_MapReduce-vs-Spark
 > CS5229 - Big Data Analytics Technologies
 
+# Video Demonstration
+[![Watch the video](https://img.youtube.com/vi/2pr2gwQ5ACc/0.jpg)](https://www.youtube.com/watch?v=2pr2gwQ5ACc)
+
 # How to Set Up Amazon EMR
 > This guide will walk you through the steps of setting up Amazon EMR. Amazon EMR is a web service that provides a managed cluster platform for processing large amounts of data. This guide assumes that you have an Learner Lab AWS account and basic familiarity with the AWS Management Console.
 
